@@ -5,9 +5,10 @@ using namespace std;
 
 int main() {
 
-	string value = "Hello this is a string";
+	string greeting = "Hello. ";
+	string explanation = "This is a string.";
 
-	cout << value << endl;
+	cout << greeting << explanation << endl;
 
 
 	return 0;
